@@ -37,7 +37,7 @@ module.exports = {
             "error"
         ],
         "no-unused-vars": [
-            "none",
+            "off",
             {
               "varsIgnorePattern": "^[A-Z]"
             }
