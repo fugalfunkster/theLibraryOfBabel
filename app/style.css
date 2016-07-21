@@ -2,136 +2,65 @@
   font-family: Born;
   src: url("./fonts/Born.otf") format("opentype");
 }
-
 @font-face {
   font-family: Butler;
   src: url("./fonts/Butler_Regular.otf") format("opentype");
 }
-
 @font-face {
   font-family: Campton-Light;
   src: url("./fonts/Campton-LightDEMO.otf") format("opentype");
 }
-
 @font-face {
   font-family: Fanwood;
   src: url("./fonts/Fanwood.otf") format("opentype");
 }
-
 @font-face {
   font-family: Fanwood Italic;
   src: url("./fonts/Fanwood-Italic.otf") format("opentype");
 }
-
 @font-face {
   font-family: Fanwood Text;
   src: url("./fonts/FanwoodText.otf") format("opentype");
 }
-
 @font-face {
   font-family: Fanwood Text Italic;
   src: url("./fonts/FanwoodText-Italic.otf") format("opentype");
 }
-
 @font-face {
   font-family: Goudy Bookletter 1911;
   src: url("./fonts/GoudyBookletter1911.otf") format("opentype");
 }
-
-
-/*
 @font-face {
   font-family: Goudy Sorts Mills;
   src: url("./fonts/GoudyStM.otf") format("opentype");
 }
-*/
-
 @font-face {
   font-family: Goudy Sorts Mills Italic;
   src: url("./fonts/GoudyStM-Italic.otf") format("opentype");
 }
-
 @font-face {
   font-family: League-Gothic;
   src: url("./fonts/LeagueGothic-Regular.otf") format("opentype");
 }
-
 @font-face {
   font-family: Linden Hill;
   src: url("./fonts/LindenHill.otf") format("opentype");
 }
-
 @font-face {
   font-family: Linden Hill Italic;
   src: url("./fonts/LindenHill-Italic.otf") format("opentype");
 }
-
 @font-face {
   font-family: Prociono;
   src: url("./fonts/Prociono.otf") format("opentype");
 }
-
 @font-face {
   font-family: White-Pine;
   src: url("./fonts/WhitePine-Regular.otf") format("opentype");
 }
 
 body {
-  font-size: 200%;
-
-  //font-family: 'Aref Ruqaa', serif;
-  //font-family: 'Asul', sans-serif;
-  //font-family: 'Balthazar', serif;
-  //font-family: 'Cinzel', serif;
-  //font-family: 'Cinzel Decorative', cursive;
-  //font-family: 'Cormorant', serif;
-  //font-family: 'Cormorant Garamond', serif;
-  //font-family: 'Cormorant Infant', serif;
-  //font-family: 'Cormorant SC', serif;
-  //font-family: 'Cormorant Unicase', serif;
-  //font-family: 'Cormorant Upright', serif;
-  //font-family: 'Fanwood', serif;
-  //font-family: 'Fanwood Italic', serif;
-  //font-family: 'Fanwood Text', serif;
-  //font-family: 'Fanwood Text Italic', serif;
-  //font-family: 'Fondamento', cursive;
-  //font-family: 'Forum', cursive;
-  //font-family: 'Goudy Bookletter 1911', serif;
-  //font-family: 'Goudy Sorts Mills', serif;
-  //font-family: 'Sorts Mills Goudy', serif;
-  //font-family: 'Goudy Sorts Mills Italic', serif;
-  //font-family: 'IM Fell English', serif;
-  //font-family: 'IM Fell French Canon', serif;
-  //font-family: 'IM Fell French Canon SC', serif;
-  //font-family: 'IM Fell Great Primer SC', serif;
-  //font-family: 'IM Fell Great Primer', serif;
-  //font-family: 'IM Fell English SC', serif;
-  //font-family: 'Lancelot', cursive;
-  //font-family: 'Lato', sans-serif;
-  //font-family: 'Libre Franklin', sans-serif;
-  //font-family: 'Libre Baskerville', serif;
-  //font-family: 'Linden Hill', serif;
-  //font-family: 'Linden Hill Italic', serif;
-  //font-family: 'Marcellus', serif;
-  //font-family: 'Marcellus SC', serif;
-  //font-family: 'Merriweather', serif;
-  //font-family: 'Merriweather Sans', sans-serif;
-  //font-family: 'Metamorphous', cursive;
-  //font-family: 'Mirza', cursive;
-  //font-family: 'Modern Antiqua', cursive;
-  //font-family: 'Montaga', serif;
-  //font-family: 'Neuton', serif;
-  //font-family: 'Playfair Display', serif;
-  //font-family: 'Playfair Display SC', serif;
-  //font-family: 'Prociono', serif;
-  //font-family: 'Rosarivo', serif;
-  //font-family: 'Vesper Libre', serif;
-  //font-family: "Born", serif;
-  //font-family: "Butler", serif;
-  //font-family: "Campton-Light", serif;
-  //font-family: "League-Gothic", serif;
-  //font-family: "White-Pine", serif;
-
+  font-size: 112.5%;
 }
 
 body, caption, th, td, input, textarea, select, option, legend, fieldset, h1, h2, h3, h4, h5, h6 {
