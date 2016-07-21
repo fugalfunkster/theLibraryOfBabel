@@ -1,7 +1,6 @@
 import { webfonts } from './fontFamilies';
 import React from 'react';
 import ReactDOM from 'react-dom';
-
 import ControlPanel from './components/control-panel/controlPanel.js';
 
 const Root = () => (
@@ -11,8 +10,8 @@ const Root = () => (
   </div>
 );
 
-var element = document.createElement('div');
-element.id = "app";
+let element = document.createElement('div');
+element.id = 'app';
 document.body.appendChild(element);
 
 ReactDOM.render(<Root />, document.getElementById('app'));

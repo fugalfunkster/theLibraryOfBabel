@@ -1,11 +1,11 @@
 import React from 'react';
-import {families} from '../../fontFamilies.js';
+import { families } from '../../fontFamilies.js';
 import { header, byline, right, subheader, paragraphs, pullquote } from './inlineStyles.js';
 import styles from './styles.css';
 
 const ControlPanel = React.createClass({
   getInitialState() {
-      return ({fontsize: "", lineHeight: "", kerning: ""})
+    return ({fontsize: '', lineHeight: '', kerning: ''});
   },
   render() {
     return (
@@ -37,7 +37,7 @@ dhcmrlchtdj
 <p style={paragraphs}>      I have just written the word ``infinite.'' I have not interpolated this adjective out of rhetorical habit; I say that it is not illogical to think that the world is infinite. Those who judge it to be limited postulate that in remote places the corridors and stairways and hexagons can conceivably come to an end -- which is absurd. Those who imagine it to be without limit forget that the possible number of books does have such a limit. I venture to suggest this solution to the ancient problem: The Library is unlimited and cyclical. If an eternal traveler were to cross it in any direction, after centuries he would see that the same volumes were repeated in the same disorder (which, thus repeated, would be an order: the Order). My solitude is gladdened by this elegant hope. (4) </p>
 <p style={byline}>      Translated by J. E. I. </p>
 </div>
-    )
+    );
   }
 });
 
